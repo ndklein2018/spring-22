@@ -1,27 +1,16 @@
 ---
-title: Nick Klein Post 1
-description: This is the first post on my website!
-date: 2022-04-07
+title: Nick Klein CV
+description: About my coursework and professional experience
+date: 2022-04-21
 tags:
   - another tag
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Coursework
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Nick Klein is a senior in advertising with a minor in general business at Iowa State University. Being a senior in the Greenlee School of Journalism and Communication, he has a large coursework background and holds relevant professional experience. Advertising Campaigns, Media Planning and Brand Storytelling are just a few of the courses under his belt.
 
-## Section Header
+## Professional Experience
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
+Nick currently works as a Communications Team Member for the Apparel, Events and Hospitality Management department at Iowa State University. In this role, he creates content and helps manage social media accounts for the Joan Bice Underwood Tearoom using his digital marketing and graphic design skills.
