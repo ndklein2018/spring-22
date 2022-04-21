@@ -1,7 +1,7 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
+title: Nick Klein Post 1
+description: This is the first post on my website!
+date: 2022-04-07
 tags:
   - another tag
 layout: layouts/post.njk
